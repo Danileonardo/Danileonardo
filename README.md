@@ -8,7 +8,7 @@
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212750592-7c1f9c9d-2b6a-4e2c-8a7b-5b9c7e4d8c0f.gif" width="40">  Sobre mi
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35">  Sobre mi
 
 <br>
 
