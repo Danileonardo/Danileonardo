@@ -13,7 +13,7 @@
 <br>
 
 Programador Full-Stack especializado en JavaScript, con experiencia en el desarrollo, mantenimiento y optimización de páginas web. En los proyectos que he integrado, he participado en todas las etapas del ciclo de desarrollo, desde la planificación hasta la mejora continua de proyectos. Destaco por mi capacidad para colaborar en equipos multidisciplinarios, comunicarme de manera efectiva con compañeros y superiores, y adaptarme rápidamente a nuevos entornos.
-- Este es mi perfil Web [link]((https://danileonardo.github.io))
+- Este es mi perfil Web [link](https://danileonardo.github.io)
 - Estoy disponible ante cualquier oportunidad laboral que se presentem, este es mi [Cv](https://docs.google.com/document/d/1gjdqcfO8T447vvvnDwK25J759VmnYHDpyY298Vk9rOw/export?format=pdf)
 
 <br>
