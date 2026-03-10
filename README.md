@@ -8,7 +8,7 @@
 
 <br>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1946/1946429.png" width="40px"> Sobre mi
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Sobre mi
 
 <br>
 
