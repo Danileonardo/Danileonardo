@@ -14,7 +14,7 @@
 
 Programador Full-Stack especializado en JavaScript, con experiencia en el desarrollo, mantenimiento y optimización de páginas web. En los proyectos que he integrado, he participado en todas las etapas del ciclo de desarrollo, desde la planificación hasta la mejora continua de proyectos. Destaco por mi capacidad para colaborar en equipos multidisciplinarios, comunicarme de manera efectiva con compañeros y superiores, y adaptarme rápidamente a nuevos entornos.
 - Este es mi perfil Web [link](https://danileonardo.github.io)
-- Estoy disponible ante cualquier oportunidad laboral que se presentem, este es mi [Cv](https://docs.google.com/document/d/1gjdqcfO8T447vvvnDwK25J759VmnYHDpyY298Vk9rOw/export?format=pdf)
+- Estoy disponible ante cualquier oportunidad laboral que se presente, este es mi [CV](https://docs.google.com/document/d/1gjdqcfO8T447vvvnDwK25J759VmnYHDpyY298Vk9rOw/export?format=pdf)
 
 <br>
 
@@ -25,17 +25,28 @@ Programador Full-Stack especializado en JavaScript, con experiencia en el desarr
 
 - **Lenguajes**:
     
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  	![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
     
-- **Desarrollo Front-End**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- ### 🎨 Frontend
+	![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+	![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+	![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+	![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     
+<br>
+
+-	### ⚙️ Backend
+	![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
+<br>
+
+-	### 🗄 Base de Datos
+	![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 <br>
 
 - **Softwares y Herramientas**:
@@ -45,6 +56,11 @@ Programador Full-Stack especializado en JavaScript, con experiencia en el desarr
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+<br>
+
+- ### ☁️ Cloud
+	![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 <br>
 
@@ -66,7 +82,7 @@ Programador Full-Stack especializado en JavaScript, con experiencia en el desarr
 
 <li>
 <a href="https://www.linkedin.com/in/hugo-leonardo-lizama-gutiérrez/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Danileo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Hugo-Lizama-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
