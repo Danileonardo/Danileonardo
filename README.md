@@ -1,8 +1,11 @@
 
 <h1 align="center"><b>Hola, Soy Hugo Lizama </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>, Soy Hugo Lizama </b></h1> 
+<h3 align="center">Full-Stack Java Developer from Chile 🇨🇱</h3>
+
 <!--  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;JavaScript+%7C+React+Developer;Building+Web+Applications;Google+Cloud+Enthusiast;Teamwork+%7C+SCRUM;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Java+Developer+%7C+Desarrollador+Full-Stack+Java;Spring+Boot+Backend+Developer+%7C+Backend+con+Spring+Boot;React+%26+JavaScript+Developer+%7C+Desarrollador+React+y+JavaScript;Building+Web+Applications+%7C+Desarrollo+de+Aplicaciones+Web;Google+Cloud+Enthusiast+%7C+Entusiasta+de+Google+Cloud;Always+Learning+New+Technologies+%7C+Siempre+aprendiendo+nuevas+tecnologías" />
 </p>
 
 <br>
