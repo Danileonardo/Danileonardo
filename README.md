@@ -71,39 +71,27 @@ Programador Full-Stack especializado en JavaScript, con experiencia en el desarr
 
 </p>
 
-<br>
-<br>
+<br><br>
 
-## <b> Entremos en contacto...</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
+## <b>Entremos en contacto...</b>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 
-<ul>
+<br><br>
 
-<li>
+<div align="center">
+
 <a href="https://www.linkedin.com/in/hugo-leonardo-lizama-gutiérrez/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin  -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/LinkedIn-Hugo%20Lizama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br>
-
-<a href="mailto:leonardo.gutial@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:leonardo.gutial@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-leonardo.gutial%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-	
-</li>
 
-<br>
-
-<li>
-<a href="mailto:leonardo.gutial@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="https://wa.me/569XXXXXXXX" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-</li>
-	
-</ul>
+
 </div>
 
-<br>
-<br>
-<br>
+<br><br>
