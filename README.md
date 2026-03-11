@@ -2,9 +2,8 @@
 <h1 align="center"><b>Hola, Soy Hugo Lizama </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java;Spring+Boot;JavaScript;React;Git;Google+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;JavaScript+%7C+React+Developer;Building+Web+Applications;Google+Cloud+Enthusiast;Teamwork+%7C+SCRUM;Always+Learning+New+Technologies" />
 </p>
-
 
 <br>
 
