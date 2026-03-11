@@ -3,7 +3,7 @@
 
 <!--  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Java+Developer+%7C+Desarrollador+Full-Stack+Java;Spring+Boot+Backend+Developer+%7C+Backend+con+Spring+Boot;React+%26+JavaScript+Developer+%7C+Desarrollador+React+y+JavaScript;Building+Web+Applications+%7C+Desarrollo+de+Aplicaciones+Web;Google+Cloud+Enthusiast />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Java+Developer+%7C+Desarrollador+Full-Stack+Java;Spring+Boot+Backend+Developer+%7C+Backend+con+Spring+Boot;React+%26+JavaScript+Developer+%7C+Desarrollador+React+y+JavaScript;Building+Web+Applications+%7C+Desarrollo+de+Aplicaciones+Web;Google+Cloud+Enthusiast+%7C+Entusiasta+de+Google+Cloud;" />
 </p>
 
 <br>
