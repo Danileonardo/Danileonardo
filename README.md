@@ -84,11 +84,15 @@ Programador Full-Stack especializado en JavaScript, con experiencia en el desarr
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:leonardo.gutial@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/569XXXXXXXX" target="_blank">
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://wa.me/56922023187" target="_blank">
 <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
