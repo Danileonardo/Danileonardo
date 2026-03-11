@@ -8,7 +8,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"> Sobre mi
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 <br>
 
